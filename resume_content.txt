@@ -1,0 +1,106 @@
+Hong Rui Yi
+hongymb07@gmail.com • (60) 176273626 • saladbkp.github.io • github.com/saladbkp
+• linkedin.com/in/hong-rui-yi-7769092b9/
+Education
+Asia Pacific University of Technology & Innovation Jalan Teknologi, Bukit Jalil
+Bachelor of Computer Science (Cyber Security) | CGPA: 3.80/4.0 2022.09 - Present
+Relevant Courses: Switching and Routing, Data Structures, Foundation of Programming, System Development
+Forensic & Security Research Center Student Section APU: CTF Challenges Creator Team
+Technical Skills
+• Programming Languages: Python, Java, C#, C, C++
+• Communication Languages: Chinese, English, Malay
+• Operating Systems: Windows XP/7/10, Linux, Ubuntu, Centos 7
+• Interested field: Reversing, Binary exploitation, Crypto, Web bug bounty
+• Certificates: AWS Certified Cloud Practitioner
+Soft Skills
+• Determination: Always ready to take on challenges and persist until solutions are found.
+• Discipline: Able to manage time and tasks efficiently, meeting both deadlines and standards.
+• Consistent: Maintain high quality and performance across different projects and environments.
+• Curious: Constantly learning new tools, technologies, and techniques to improve and innovate.
+Projects (https://saladbkp.github.io/diaries/)
+(Hardware-Software Security) Secure Vehicle Access Control System | Team Project
+• Designed and implemented a secure vehicle unlocking system integrating ESP32, GPS (NEO-9M), RF receiver
+(RXB6), buzzer, and 5V relay for real-time lock control.
+• Developed a mobile application using Flutter and Firebase to provide user access, tracking, and control interface.
+• Integrated RSA-based hash sharing, SHA-256 challenge-response verification, and blockchain-like logging to
+ensure secure, tamper-evident access records.
+(Reverse Workshop) Plants vs. Zombies Game Hacking Workshop | Solo Project
+• Demonstrated practical reverse engineering by analyzing memory layouts, identifying dynamic base addresses,
+and automating hacks with Python and pymem.
+• Developed scripts to achieve real-time effects like infinite resources and instant planting, showcasing dynamic
+address resolution and ASM patching.
+(Software) Food Ordering System Project with JAVA | Team Project
+• Implemented a multi-user system to manage food ordering and delivery processes using OOP concepts.
+• Utilized socket communication to facilitate real-time communication between clients and servers.
+(Networking) Network Design Project with Cisco Packet Tracer | Team Project
+• Proposed VLAN, WLAN, EtherChannel, HSRP Architecture in 3 network area.
+• Implement basic security and use ACL and VPN to improve the security of switch and routers.
+(AI) Spam SMS Detection using Deep Learning Model | Personal Project
+• Developed a model for detecting spam SMS messages using Word2Vec and LSTM neural networks.
+(IOT) ESP8266 WiFi Project in Arduino | Personal Project
+• Configured ESP8266 to connect with an Android app for wireless communication.
+(WIN API) Desktop Application for Copying Spotify Song Names | Personal Project
+• Implemented a Spotify class to retrieve song names and used WinAPI functions like FindWindow, GetWindowText,
+and CopyToClipboard to interact with the desktop application.
+(Reverse) Extract 16-bit and 32-bit MZS DOS DLL String Tables | Personal Project
+• Developed a VB code to read resource offsets from DLLs, extract bytes, and perform conversion operations.
+(Hardware) Firmware analysis on D-Link DCS-932L | Personal Project
+• Conducted firmware analysis, web interface security testing, and network traffic monitoring to identify
+vulnerabilities in the D-Link DCS-932L IP camera.
+• Exploited CVE-2019-10999 (buffer overflow in alphapd backend server).
+(Android) Samsung A305F Android Root with Patched Boot.img | Personal Project
+• Successfully rooted a Samsung A305F running Android 11 by patching boot.img + disable DM-Verity using Magisk.
+Working Experience
+Software Automation Developer 2022.07 – 2024.06
+• Utilized MVVM architecture to create maintainable WPF applications for machine performance analyzing purposes.
+• Experienced in developing vision software using OpenCV for image processing and OCR in QT.
+Penetration Testing Intern – Maybank IPT Infrastructure Team 2025.08 - 2025.11
+• Conducted penetration tests on Android, web applications, APIs, infrastructure, and Wi-Fi for Maybank projects.
+• Identified and reported multiple OWASP Top 10 vulnerabilities in a UAT web application.
+• Assisted senior testers in rooting a Redmi device for real-world Android penetration testing.
+• Developed a JavaScript script to automate JWT token reuse exploitation for API security testing.
+Freelance Developer 2024 - Present
+• Developed an automated web scraping bot for 3 SG beauty websites to track price discounts across categories for
+monthly price comparison.
+• Built an automated testing bot using multiple IP proxies for HK Cityline customers to ensure robust ticketing
+performance.
+• Reverse-engineered BookMyShow's ticket JWT token algorithm for security analysis.
+• Created a 2D game using DirectX 9 with polygon-based character movement, animation, real-time updates, and
+collision detection.
+• Designed and implemented AI models, including Deep Q-Network (DQN) and other algorithms, for game completion
+optimization.
+• Implemented liveness detection using MTCNN for face blink and lip movement recognition via webcam, improving
+anti-spoofing security.
+• Developed an ElGamal cryptographic system and a derangement-based Santa gifter & giftee matching system.
+• Built an RSA-based secure messaging system for encrypted communication between two parties, implementing
+key generation, encryption, and decryption in Python.
+Competition Experience (CTF time: https://ctftime.org/team/359854)
+Capture the Flag (CTF) Other
+• ASEAN Battle of Hackers (ABOH) 2023 • Level 99 Game Jam (rank 90/329): 3D + Unity
+• Wargames.MY 2023 • APU AWS Deepracer 2023: AI + Python
+• RENTAS CTF 2024 (final rank 13/30) • APU Hackthletes X Solana Hackathon 2024: Web3 + Vue
+• FSIIEC CTF 2024 (3rd place)
+• Curtin CTF 2024 (4th place)
+• ASCIS CTF 2024 (5th place)
+• PWC CTF 2024 (1st place)
+• Sherpa CTF 2024 (2nd place in student category)
+• Hibiscus CTF 2024 (3rd place)
+• Wargame CTF 2024 (5th place)
+• CSLU CTF 2024 (1st place)
+• HACKTHEON SEJONG APRIL 2025 (25th place represent Malaysia APU student category)
+• BlackBerry CTF MAY 2025 (1st place)
+• UM CTF MAY 2025 (1st place defense jeopardy)
+• UTEM CTF MAY 2025 (4th place)
+• CYDES CTF JUN-JULY 2025 (4th place)
+• BARQSEC APU CTF JULY 2025 (1st place)
+• SUNWAY CTF AUG 2025 (1st place)
+FSEC Role
+• IBOH CTF 2024 (Crypto, AI Challenge Creator)
+• IBOH CTF 2025 (PWN, RE Challenge Creator)
+• ICTF CTF 2024 (Crypto Challenge Creator)
+• ICTF CTF MAY 2025 (RE Challenge Creator)
+• FORENSIC GAME CTF 2024 (Challenge Creator)
+• SIBER SIAGA CTF 2025 (RE, PWN Challenge Creator)
+• SIBER SIAGA FINAL Attack and Defense 2025 (PWN Challenge Creator)
+Workshop
+• Back to Childhood's Garden Game Hacking 101 speaker
