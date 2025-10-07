@@ -3,14 +3,14 @@
 **Cyber Security Student | Reverse Engineer | CTF Player**
 
 [🌐 Website](https://saladbkp.github.io) • [💻 GitHub](https://github.com/saladbkp) • [🔗 LinkedIn](https://linkedin.com/in/hong-rui-yi-7769092b9/)  
-Email: *(optional — add if you want recruiters to contact you)*
+Email: secret
 
 ---
 
 ## 🎓 Education
 
 **Asia Pacific University of Technology & Innovation (APU)** – Jalan Teknologi, Bukit Jalil  
-**Bachelor of Computer Science (Cyber Security)** | *CGPA: 3.80 / 4.00*  
+**Bachelor of Computer Science (Cyber Security)** | *CGPA: 3.82 / 4.00*  
 📅 *Sept 2022 – Present*
 
 **Relevant Courses:** Switching and Routing, Data Structures, Foundation of Programming, System Development  
